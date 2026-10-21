@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "trial-7.allnighthosting.cloud",
+    "port": 25580,
     "version": "1.20.1",
     "try-creative": false
   },
